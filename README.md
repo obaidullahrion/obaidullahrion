@@ -3,7 +3,7 @@
 
 
 
-<img width="100%" align="center" display="block" height="70%" src="https://i.pinimg.com/originals/50/cd/3b/50cd3bed5c4763ec64f5082010e9b09e.gif"  />
+<img width="100%" align="center" display="block" height="200px" src="https://i.pinimg.com/originals/50/cd/3b/50cd3bed5c4763ec64f5082010e9b09e.gif"  />
 
 
 
