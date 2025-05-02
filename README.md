@@ -1,10 +1,9 @@
-<h2 align="left">🎯 A quick summary on my field of work.</h2>
+<h2 align="center">🎯 A quick summary on my field of work.</h2>
 
-###
+<div><img align='left' src="https://github-readme-stats.vercel.app/api?username=obaidullahrion&show_icons=true&theme=algolia&hide_border=true" width="49%" /><\div>
 
 
 
-###
 
 <p align="left">Languages</p>
 
