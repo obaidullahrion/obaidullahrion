@@ -6,21 +6,28 @@
 
 
 
-<h2 align="center">A quick summary on my field of work.</h2>
+<p align="center"><b></b>A quick summary on my field of work.</p>b></p>
 
 
+link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&display=swap" rel="stylesheet">
 
-<h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">About Me</h1>
-<p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; line-height: 1.6;">
-I'm <strong>Obaidullah</strong>, a passionate technologist and builder with a strong interest in cybersecurity, automation, and impactful digital solutions. I enjoy solving problems, designing systems, and working on ideas that have potential to scale and serve others.
-</p>
+<div style="font-family: 'Orbitron', sans-serif; font-size: 15px; line-height: 1.6; color: #00ffcc;">
+  <p>
+    Hey there! I'm <strong>Obaidullah</strong> – a tech-driven mind passionate about building meaningful systems and exploring the edges of cybersecurity 🛡️ and digital innovation ⚙️.
+  </p>
 
-<p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; line-height: 1.6;">
-With a background in programming, system security, and open-source collaboration, I aim to develop tools, platforms, and content that empower learners, developers, and everyday users.
-</p>
+  <p>
+    I love experimenting, creating, and learning through hands-on work. Every project I work on is a step toward building tools and platforms that serve real needs and empower others.
+  </p>
 
+  <ul>
+    <li><strong>Mindset:</strong> Stay low, build smart, move fast ⚡</li>
+    <li><strong>Focus:</strong> Creating scalable, secure, and useful tech for the future</li>
+    <li><strong>Philosophy:</strong> Simplicity, consistency, impact ♻️</li>
+  </ul>
 
-
+  <p>
+    If you're into meaningful tech or just want to connect, feel free to reach out
 
 
 
