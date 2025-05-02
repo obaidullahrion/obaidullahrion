@@ -1,5 +1,9 @@
-<h2 align="center">🎯 A quick summary on my field of work.</h2>
+<h2 align="center">A quick summary on my field of work.</h2>
 
+
+
+
+<img src="https://i.pinimg.com/originals/50/cd/3b/50cd3bed5c4763ec64f5082010e9b09e.gif"  />
 
 
 
