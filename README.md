@@ -6,14 +6,13 @@
 
 
 
-<p align="center"><b></b>A quick summary on my field of work.</p>b></p>
+<h4 align="center"><b></b>A quick summary on my field of work.</h6>
 
 
-link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&display=swap" rel="stylesheet">
 
 <div style="font-family: 'Orbitron', sans-serif; font-size: 15px; line-height: 1.6; color: #00ffcc;">
   <p>
-    Hey there! I'm <strong>Obaidullah</strong> – a tech-driven mind passionate about building meaningful systems and exploring the edges of cybersecurity 🛡️ and digital innovation ⚙️.
+    Hey there! I'm <strong>Obaidullah</strong> – a tech-driven mind passionate about building meaningful systems and exploring the edges of cybersecurity and digital innovation .
   </p>
 
   <p>
@@ -23,7 +22,7 @@ link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&displa
   <ul>
     <li><strong>Mindset:</strong> Stay low, build smart, move fast ⚡</li>
     <li><strong>Focus:</strong> Creating scalable, secure, and useful tech for the future</li>
-    <li><strong>Philosophy:</strong> Simplicity, consistency, impact ♻️</li>
+    <li><strong>Work type:</strong> Simplicity, consistency, impact ♻️</li>
   </ul>
 
   <p>
@@ -31,7 +30,7 @@ link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&displa
 
 
 
-
+<br>
 
 
 <p align="left">Languages</p>
