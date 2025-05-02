@@ -225,13 +225,13 @@
 
 
 <div align="left">
-  <a href="youtube.com/@obinet-yt" target="_blank">
+  <a href="https://youtube.com/@obinet-yt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
   </a>
   <a href="https://instagram.com/obaidullahrion" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
-  <a href="discord.com/obaidullahrion " target="_blank">
+  <a href="https://discord.gg/sEywWjkx " target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
   <a href="mailto:obaidullahrion@gmail.com" target="_blank">
@@ -243,7 +243,7 @@
   <a href="https://t.me/mrpoliteboy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   </a>
-  <a href="x.com/obaidullahrion " target="_blank">
+  <a href="https://x.com/obaidullahrion " target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
   </a>
 </div>
