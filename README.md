@@ -1,9 +1,29 @@
-<h2 align="center">A quick summary on my field of work.</h2>
-
 
 
 
 <img width="100%" align="center" display="block" height="200px" src="https://i.pinimg.com/originals/50/cd/3b/50cd3bed5c4763ec64f5082010e9b09e.gif"  />
+
+
+
+
+<h2 align="center">A quick summary on my field of work.</h2>
+
+
+
+<h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">About Me</h1>
+<p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; line-height: 1.6;">
+I'm <strong>Obaidullah</strong>, a passionate technologist and builder with a strong interest in cybersecurity, automation, and impactful digital solutions. I enjoy solving problems, designing systems, and working on ideas that have potential to scale and serve others.
+</p>
+
+<p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; line-height: 1.6;">
+With a background in programming, system security, and open-source collaboration, I aim to develop tools, platforms, and content that empower learners, developers, and everyday users.
+</p>
+
+
+
+
+
+
 
 
 
