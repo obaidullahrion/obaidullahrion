@@ -217,16 +217,13 @@
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=obaidullahrion&theme=default" alt="Layout with last medium posts"  />
 </div>
 
-###
-
-<img align="right" src="https://profile-counter.glitch.me/obaidullahrion /count.svg?"  />
-
-###
+<div align="right">
 
 
-###
-![](https://komarev.com/ghpvc/?username=obaidullahrion&color=447ff7&label=Visitor+count)
-###
+  ![](https://komarev.com/ghpvc/?username=obaidullahrion&color=447ff7&label=Visitor+count)
+
+</div>
+
 <!--
 
 **obaidullahrion/obaidullahrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
