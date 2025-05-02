@@ -1,7 +1,5 @@
 <h2 align="center">🎯 A quick summary on my field of work.</h2>
 
-<div><img align='left' src="https://github-readme-stats.vercel.app/api?username=obaidullahrion&show_icons=true&theme=algolia&hide_border=true" width="49%" /><\div>
-
 
 
 
@@ -177,9 +175,19 @@
 
 <br clear="both">
 
+
+
 <img src="https://raw.githubusercontent.com/obaidullahrion /obaidullahrion /output/snake.svg" alt="Snake animation" />
 
+
+
 ###
+
+
+<div><img align='left' src="https://github-readme-stats.vercel.app/api?username=obaidullahrion&show_icons=true&theme=algolia&hide_border=true" width="49%" /></div>
+
+
+
 
 <div align="left">
   <a href="youtube.com/@obinet-yt" target="_blank">
@@ -207,9 +215,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=obaidullahrion&theme=default" alt="Layout with last medium posts"  />
-</div>
+
 
 <div align="right">
 
