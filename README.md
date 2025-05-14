@@ -206,23 +206,18 @@
 
 
 
-<div><img align='left' src="https://github-readme-stats.vercel.app/api?username=obaidullahrion&show_icons=true&theme=algolia&hide_border=true" width="49%" /></div>
 
 
 
 
 
-<!--Graph-->
- <div align="center" >
-
-<hr></hr>
-
-  <br/>
 
 
-![obaidullahrion's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=obaidullahrion&bg_color=000000f&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
 
-</div>
+
+
+
+
 
 
 
