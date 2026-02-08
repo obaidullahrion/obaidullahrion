@@ -17,16 +17,12 @@ Through every encounter and project, I’ve come to realize that no matter how f
 
 
 
-
-
-
-
-
-
-
-
-<div><img align='left' src="https://github-readme-stats.vercel.app/api?username=obaidullahrion&show_icons=true&theme=algolia&hide_border=true" width="49%" /></div>
-
+<p> Things I am interested to collaborate with</p>
+<ul> <li>Litererary Anything related to linux/server</li>
+  <li>Wordpress plugins</li>
+  <li>Webapp project that is scaleable/ open source to support humanity</li>
+  <li>cybersecurity tools</li>
+</ul>
 
 
 
