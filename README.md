@@ -1,107 +1,37 @@
+<img width="100%" src="https://i.pinimg.com/originals/50/cd/3b/50cd3bed5c4763ec64f5082010e9b09e.gif" />
 
+## Obaidullah Rion
+**Designer · Developer · Founder** — 7+ years building things that matter
 
+---
 
-<img width="100%" align="center" display="block" height="200px" src="https://i.pinimg.com/originals/50/cd/3b/50cd3bed5c4763ec64f5082010e9b09e.gif"  />
+### About
 
+I think of myself as a merchant — not of products, but of inspiration and solutions. People buy what they truly need, and I've spent seven years figuring out what that is: designing, developing, founding, scaling, and listening closely to the humans behind every project.
 
+What I've learned most is that no one gets far alone. We're built to create, learn, and grow together. I carry that with me everywhere I go.
 
+> *"I still have a long way to go."* — and that's exactly the point.
 
-<h4 align="center"><b></b>A quick summary on my field of work.</h6>
+---
 
+### Open to collaborating on
 
+- 🟢 Linux & server-side work
+- 🔵 WordPress development
+- 🟣 Scalable open-source webapps
+- 🔴 Cybersecurity tools
 
-<div style="font-family: 'Orbitron', sans-serif; font-size: 15px; line-height: 1.6; color: #00ffcc;">
-  <p>I am just a mere merchant selling inspirations and solutions to those who seek them . I belive people buys what they truly need. And in the pursuit of building something meaningful, I’m driven to explore the endless realm of creativity. A path I’ve been walking for over seven years, From designing to developing, Founding to scaling and searching to reporting. Along the way, I've discovered people and their subtle thoughts. <br><br>
-Through every encounter and project, I’ve come to realize that no matter how far I go, I can’t accomplish everything alone. As humans, we’re meant to create, learn, and grow together. That understanding led me to embrace collaboration — and to carry with me a simple truth: "I still have a long way to go."
-  </p>
+---
 
+### Find me
 
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://linkedin.com/in/obaidullahrion)
+[![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge)](https://youtube.com/@obinet-yt)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge)](https://instagram.com/obaidullahrion)
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge)](https://discord.gg/sEywWjkx)
+[![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge)](https://t.me/mrpoliteboy)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:obaidullahrion@gmail.com)
+[![Portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=FF7139&logoColor=white&style=for-the-badge)](https://obaidullah.my.to)
 
-<p> Things I am interested to collaborate with</p>
-<ul> <li>Litererary Anything related to linux/server</li>
-  <li>Wordpress plugins</li>
-  <li>Webapp project that is scaleable/ open source to support humanity</li>
-  <li>cybersecurity tools</li>
-</ul>
-
-
-
-
-<!--Graph-->
- <div align="center" >
-
-<hr></hr>
-
-  <br/>
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="left">
-  <a href="https://youtube.com/@obinet-yt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-  </a>
-  <a href="https://instagram.com/obaidullahrion" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/sEywWjkx " target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-  <a href="mailto:obaidullahrion@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/obaidullahrion " target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/mrpoliteboy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
-  </a>
-  <a href="https://x.com/obaidullahrion " target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-
-
-<div align="right">
-
-
-  ![](https://komarev.com/ghpvc/?username=obaidullahrion&color=447ff7&label=Visitor+count)
-
-</div>
-
-<!--
-
-**obaidullahrion/obaidullahrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitor count](https://komarev.com/ghpvc/?username=obaidullahrion&color=447ff7&label=Visitor+count)
