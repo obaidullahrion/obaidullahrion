@@ -1,17 +1,17 @@
-<img width="100%" src="https://i.pinimg.com/originals/50/cd/3b/50cd3bed5c4763ec64f5082010e9b09e.gif" />
+<img width="100%" height=70% src="https://i.pinimg.com/originals/50/cd/3b/50cd3bed5c4763ec64f5082010e9b09e.gif" />
 
 ## Obaidullah Rion
-**Designer · Developer · Founder** — 7+ years building things that matter
+**Designer · Developer · Founder** - 7+ years building things that matter
 
 ---
 
 ### About
 
-I think of myself as a merchant — not of products, but of inspiration and solutions. People buy what they truly need, and I've spent seven years figuring out what that is: designing, developing, founding, scaling, and listening closely to the humans behind every project.
+I think of myself as a merchant - not of products, but of inspiration and solutions. People buy what they truly need, and I've spent seven years figuring out what that is: designing, developing, founding, scaling, and listening closely to the humans behind every project.
 
 What I've learned most is that no one gets far alone. We're built to create, learn, and grow together. I carry that with me everywhere I go.
 
-> *"I still have a long way to go."* — and that's exactly the point.
+> *"I still have a long way to go."* - and that's exactly the point.
 
 ---
 
