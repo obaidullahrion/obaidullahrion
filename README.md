@@ -35,8 +35,6 @@ Through every encounter and project, I’ve come to realize that no matter how f
   <br/>
 
 
-![obaidullahrion's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=obaidullahrion&bg_color=000000f&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
-
 </div>
 
 
